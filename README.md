@@ -1,4 +1,4 @@
-# xorTorrent
+# liteTorrent
 
 ## Overview
 
